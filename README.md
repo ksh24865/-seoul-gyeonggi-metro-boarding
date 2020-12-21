@@ -2,10 +2,6 @@
 Elasticsearch, Kibana를 이용한 수도권 지하철 승하차 인원 모티너링, 분석하는 토이 프로젝트
 
 
-
-# seoul metro boarding
-
-
 ## output
 * 데이터 실시간 시각화
 `추가예정`
