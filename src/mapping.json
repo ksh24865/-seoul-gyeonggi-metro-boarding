@@ -1,0 +1,47 @@
+{
+    "mappings": {
+        "properties": {
+          "ALIGHT_PASGR_NUM": {
+            "type": "float"
+          },
+          "LINE_NUM": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "RIDE_PASGR_NUM": {
+            "type": "float"
+          },
+          "SUB_STA_NM": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "USE_DT": {
+            "type": "date"
+          },
+          "WORK_DT": {
+            "type": "text",
+            "fields": {
+              "keyword": {
+                "type": "keyword",
+                "ignore_above": 256
+              }
+            }
+          },
+          "location": {
+            "type": "geo_point"
+            
+          }
+        }
+      }
+    
+  }
