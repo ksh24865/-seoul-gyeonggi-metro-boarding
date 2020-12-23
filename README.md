@@ -1,5 +1,5 @@
 # seoul-gyeonggi-metro-boarding
-Elasticsearch, Kibana를 이용한 수도권 지하철 승하차 인원 모티너링, 분석하는 토이 프로젝트
+Docker, Elasticsearch, Kibana를 이용한 수도권 지하철 승하차 인원 모티너링, 분석하는 토이 프로젝트
 
 
 ## output
