@@ -3,7 +3,7 @@ import json
 import xmltodict
 from elasticsearch import Elasticsearch
 
-# 로케이션에 없는 역 : 제기동
+
 
 #funcion
 
